@@ -1,3 +1,4 @@
 testing
 add shared lib1
 add shared lib2
+add shared lib3
